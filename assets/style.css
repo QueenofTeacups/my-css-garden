@@ -1,0 +1,24 @@
+a{
+    text-decoration: none;
+  }
+
+body{
+    background-color: #f6e3d4;
+    font-family: sans-serif;
+    color: #008B8B;
+}
+
+nav{
+    background-color: rgb(224, 255, 255);
+}
+
+aside{
+    background-color: #f9d199;
+}
+
+nav, aside{
+    color: #e63552
+}
+
+
+
