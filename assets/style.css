@@ -1,11 +1,23 @@
 a{
     text-decoration: none;
+    color: darkslategrey;
   }
+
+a:visited{
+    color: grey;
+}
+
+a:hover{
+    color: lightseagreen;
+}
+
+
 
 body{
     background-color: #f6e3d4;
     font-family: sans-serif;
     color: #008B8B;
+    padding: 33px;
 }
 
 nav{
@@ -17,8 +29,10 @@ aside{
 }
 
 nav, aside{
-    color: #e63552
+    color: #e63552;
+    box-shadow: #008B8B;
 }
 
-
-
+.s1, .s2, .s3{
+    border-bottom-style: solid;
+}
